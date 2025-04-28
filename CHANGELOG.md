@@ -1,3 +1,15 @@
+# v1.10.4
+
++ Added Haptic Jingle API
++ Added Device presence API 
++ Added Haptic service COM for Sensa Provider
++ Fixed an issue when the loop value was set to 0
++ Fixed an issue where initialization could get stuck in infinite loop
++ Fixed an issue where Sensa bodyparts were not removed from the avatar
++ Fixed an issue where iOS bodyparts were not removed from the avatar
+
+___________________________________
+
 # v1.5.1
 
 + Updated Sensa provider to 1.2.0

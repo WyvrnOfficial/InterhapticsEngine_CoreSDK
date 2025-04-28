@@ -7,7 +7,7 @@ Includes the following items :
 + Public headers for exposed APIs 
 
 Documentation : 
-+ https://doc.wyvrn.com/docs/interhaptics-sdk/haptics-sdk-for-game-engines/
++ https://www.interhaptics.com/doc/interhaptics-engine/ 
 
 Join our Discord : 
 + https://discord.com/invite/93jU9nAX4f  
